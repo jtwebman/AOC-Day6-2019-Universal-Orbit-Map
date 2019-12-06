@@ -6,7 +6,7 @@ Code here: [/lib/](/lib/)
 
 Tests here: Need to write some, ran out of time
 
-Today I thought it would be fun to solve it using structs. It was but definitely more work.
+Today I thought it would be fun to solve it using structs. It was definitely more work.
 
 ## Tests
 
